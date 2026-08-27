@@ -259,3 +259,10 @@ form .consent label { margin-bottom: 0; font-weight: 450; font-size: 0.9rem; lin
 
 .prose { max-width: 46rem; }
 .prose h2 { margin-top: 2.2rem; }
+
+/* Plain-prose restatement of the SMS disclosure. The same terms appear beside
+   the consent checkbox, but text inside a <label> is skipped by some compliance
+   scrapers, so the form's terms are also stated here as ordinary prose. */
+.sms-disclosure { margin: 2rem 0 0; padding-top: 1.25rem; border-top: 0.5px solid var(--rule, #e5e2db); }
+.sms-disclosure h2 { font-size: 0.95rem; margin: 0 0 0.4rem; }
+.sms-disclosure p { font-size: 0.9rem; line-height: 1.6; margin: 0; }
