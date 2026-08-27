@@ -1,0 +1,25 @@
+# RBIT Systems
+
+> Remote IT consultancy based in Los Angeles, serving businesses across the US. Cloud engineering, managed IT, business process automation, and AI implementation, all handled directly by a senior cloud and infrastructure engineer with 15+ years of enterprise experience.
+
+RBIT Systems works with businesses that want direct access to the engineer doing the work. Engagements range from one-time infrastructure assessments to ongoing managed IT.
+
+## Services
+
+- [Managed IT and business support](https://rbitsystems.com/services#managed-it): Microsoft 365 administration and security, identity and access management, email security (SPF, DKIM, DMARC), vendor and licensing management, tested backups.
+- [Cloud engineering](https://rbitsystems.com/services#cloud): AWS and Azure architecture, landing zones and governance (AWS Control Tower), IAM and Entra ID, Terraform, cost and security posture reviews, migrations.
+- [Automation and custom systems](https://rbitsystems.com/services#automation): business process automation, low-code builds on Zoho Creator and Zoho Inventory, barcode inventory systems, integrations, AI retrieval systems that run inside the client's own tenant.
+- [Assessments and network engineering](https://rbitsystems.com/services#assessments): infrastructure assessments with a prioritized written roadmap, network design and troubleshooting, email deliverability audits, security baseline reviews.
+
+## Pages
+
+- [Home](https://rbitsystems.com/)
+- [Services](https://rbitsystems.com/services)
+- [About](https://rbitsystems.com/about)
+- [Contact](https://rbitsystems.com/contact)
+- [Privacy policy](https://rbitsystems.com/privacy-policy)
+- [SMS terms](https://rbitsystems.com/sms-terms)
+
+## Contact
+
+Email: hello@rbitsystems.com. Phone: (310) 304-4014. New inquiries get a reply within one business day.

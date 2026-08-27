@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="48" viewBox="0 0 240 48" role="img" aria-label="RBIT Systems">
+  <rect x="0" y="4" width="40" height="40" rx="9" fill="#1d4ed8"/>
+  <text x="20" y="33" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="800" fill="#ffffff">R</text>
+  <text x="52" y="33" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="26" font-weight="750" letter-spacing="-0.5" fill="#101828">RBIT <tspan fill="#1d4ed8">Systems</tspan></text>
+</svg>
